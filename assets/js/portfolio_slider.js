@@ -10,8 +10,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Gallery 1',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/2.jpg', 'img/portfolio/small/3.jpg', 'img/portfolio/small/4.jpg', 'img/portfolio/small/11.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/2.jpg', 'img/portfolio/large/3.jpg', 'img/portfolio/large/4.jpg', 'img/portfolio/large/11.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/1.jpg', '../assets/img//portfolio/small/2.jpg', '../assets/img//portfolio/small/3.jpg', '../assets/img//portfolio/small/4.jpg', '../assets/img//portfolio/small/11.jpg'],
+			'large' : ['../assets/img//portfolio/large/1.jpg', '../assets/img//portfolio/large/2.jpg', '../assets/img//portfolio/large/3.jpg', '../assets/img//portfolio/large/4.jpg', '../assets/img//portfolio/large/11.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -23,8 +23,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Swiss chard pumpkin',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/4.jpg', 'img/portfolio/small/5.jpg', 'img/portfolio/small/6.jpg', 'img/portfolio/small/7.jpg'],
-			'large' : ['img/portfolio/large/4.jpg', 'img/portfolio/large/5.jpg', 'img/portfolio/large/6.jpg', 'img/portfolio/large/7.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/4.jpg', '../assets/img//portfolio/small/5.jpg', '../assets/img//portfolio/small/6.jpg', '../assets/img//portfolio/small/7.jpg'],
+			'large' : ['../assets/img//portfolio/large/4.jpg', '../assets/img//portfolio/large/5.jpg', '../assets/img//portfolio/large/6.jpg', '../assets/img//portfolio/large/7.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -36,8 +36,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Spinach winter purslane',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/15.jpg','img/portfolio/small/8.jpg', 'img/portfolio/small/9.jpg', 'img/portfolio/small/10.jpg'],
-			'large' : ['img/portfolio/large/15.jpg','img/portfolio/large/8.jpg', 'img/portfolio/large/9.jpg', 'img/portfolio/large/10.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/15.jpg','../assets/img//portfolio/small/8.jpg', '../assets/img//portfolio/small/9.jpg', '../assets/img//portfolio/small/10.jpg'],
+			'large' : ['../assets/img//portfolio/large/15.jpg','../assets/img//portfolio/large/8.jpg', '../assets/img//portfolio/large/9.jpg', '../assets/img//portfolio/large/10.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -49,8 +49,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Aubergine napa cabbage',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/12.jpg', 'img/portfolio/small/13.jpg', 'img/portfolio/small/14.jpg', 'img/portfolio/small/15.jpg', 'img/portfolio/small/16.jpg'],
-			'large' : ['img/portfolio/large/12.jpg', 'img/portfolio/large/13.jpg', 'img/portfolio/large/14.jpg', 'img/portfolio/large/15.jpg', 'img/portfolio/large/16.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/12.jpg', '../assets/img//portfolio/small/13.jpg', '../assets/img//portfolio/small/14.jpg', '../assets/img//portfolio/small/15.jpg', '../assets/img//portfolio/small/16.jpg'],
+			'large' : ['../assets/img//portfolio/large/12.jpg', '../assets/img//portfolio/large/13.jpg', '../assets/img//portfolio/large/14.jpg', '../assets/img//portfolio/large/15.jpg', '../assets/img//portfolio/large/16.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -62,8 +62,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Swiss chard pumpkin',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/17.jpg', 'img/portfolio/small/18.jpg', 'img/portfolio/small/19.jpg', 'img/portfolio/small/20.jpg'],
-			'large' : ['img/portfolio/large/17.jpg', 'img/portfolio/large/18.jpg', 'img/portfolio/large/19.jpg', 'img/portfolio/large/20.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/17.jpg', '../assets/img//portfolio/small/18.jpg', '../assets/img//portfolio/small/19.jpg', '../assets/img//portfolio/small/20.jpg'],
+			'large' : ['../assets/img//portfolio/large/17.jpg', '../assets/img//portfolio/large/18.jpg', '../assets/img//portfolio/large/19.jpg', '../assets/img//portfolio/large/20.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -75,8 +75,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Spinach winter purslane',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/13.jpg','img/portfolio/small/15.jpg', 'img/portfolio/small/11.jpg', 'img/portfolio/small/10.jpg'],
-			'large' : ['img/portfolio/large/13.jpg','img/portfolio/large/15.jpg', 'img/portfolio/large/11.jpg', 'img/portfolio/large/10.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/13.jpg','../assets/img//portfolio/small/15.jpg', '../assets/img//portfolio/small/11.jpg', '../assets/img//portfolio/small/10.jpg'],
+			'large' : ['../assets/img//portfolio/large/13.jpg','../assets/img//portfolio/large/15.jpg', '../assets/img//portfolio/large/11.jpg', '../assets/img//portfolio/large/10.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -88,8 +88,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Spinach winter purslane',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/7.jpg','img/portfolio/small/8.jpg', 'img/portfolio/small/9.jpg', 'img/portfolio/small/10.jpg'],
-			'large' : ['img/portfolio/large/7.jpg','img/portfolio/large/8.jpg', 'img/portfolio/large/9.jpg', 'img/portfolio/large/10.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/7.jpg','../assets/img//portfolio/small/8.jpg', '../assets/img//portfolio/small/9.jpg', '../assets/img//portfolio/small/10.jpg'],
+			'large' : ['../assets/img//portfolio/large/7.jpg','../assets/img//portfolio/large/8.jpg', '../assets/img//portfolio/large/9.jpg', '../assets/img//portfolio/large/10.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -101,8 +101,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Azuki bean',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/16.jpg', 'img/portfolio/small/13.jpg', 'img/portfolio/small/14.jpg', 'img/portfolio/small/15.jpg', 'img/portfolio/small/16.jpg'],
-			'large' : ['img/portfolio/large/16.jpg', 'img/portfolio/large/13.jpg', 'img/portfolio/large/14.jpg', 'img/portfolio/large/15.jpg', 'img/portfolio/large/16.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/16.jpg', '../assets/img//portfolio/small/13.jpg', '../assets/img//portfolio/small/14.jpg', '../assets/img//portfolio/small/15.jpg', '../assets/img//portfolio/small/16.jpg'],
+			'large' : ['../assets/img//portfolio/large/16.jpg', '../assets/img//portfolio/large/13.jpg', '../assets/img//portfolio/large/14.jpg', '../assets/img//portfolio/large/15.jpg', '../assets/img//portfolio/large/16.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -114,8 +114,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Swiss chard pumpkin',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/18.jpg', 'img/portfolio/small/18.jpg', 'img/portfolio/small/19.jpg', 'img/portfolio/small/20.jpg'],
-			'large' : ['img/portfolio/large/18.jpg', 'img/portfolio/large/18.jpg', 'img/portfolio/large/19.jpg', 'img/portfolio/large/20.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/18.jpg', '../assets/img//portfolio/small/18.jpg', '../assets/img//portfolio/small/19.jpg', '../assets/img//portfolio/small/20.jpg'],
+			'large' : ['../assets/img//portfolio/large/18.jpg', '../assets/img//portfolio/large/18.jpg', '../assets/img//portfolio/large/19.jpg', '../assets/img//portfolio/large/20.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -127,8 +127,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Winter purslane',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/11.jpg','img/portfolio/small/15.jpg', 'img/portfolio/small/11.jpg', 'img/portfolio/small/10.jpg'],
-			'large' : ['img/portfolio/large/11.jpg','img/portfolio/large/15.jpg', 'img/portfolio/large/11.jpg', 'img/portfolio/large/10.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/11.jpg','../assets/img//portfolio/small/15.jpg', '../assets/img//portfolio/small/11.jpg', '../assets/img//portfolio/small/10.jpg'],
+			'large' : ['../assets/img//portfolio/large/11.jpg','../assets/img//portfolio/large/15.jpg', '../assets/img//portfolio/large/11.jpg', '../assets/img//portfolio/large/10.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -140,8 +140,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Spinach winter purslane',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/3.jpg','img/portfolio/small/15.jpg', 'img/portfolio/small/11.jpg', 'img/portfolio/small/10.jpg'],
-			'large' : ['img/portfolio/large/3.jpg','img/portfolio/large/15.jpg', 'img/portfolio/large/11.jpg', 'img/portfolio/large/10.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/3.jpg','../assets/img//portfolio/small/15.jpg', '../assets/img//portfolio/small/11.jpg', '../assets/img//portfolio/small/10.jpg'],
+			'large' : ['../assets/img//portfolio/large/3.jpg','../assets/img//portfolio/large/15.jpg', '../assets/img//portfolio/large/11.jpg', '../assets/img//portfolio/large/10.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -153,8 +153,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Spinach winter purslane',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/5.jpg','img/portfolio/small/8.jpg', 'img/portfolio/small/9.jpg', 'img/portfolio/small/10.jpg'],
-			'large' : ['img/portfolio/large/5.jpg','img/portfolio/large/8.jpg', 'img/portfolio/large/9.jpg', 'img/portfolio/large/10.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/5.jpg','../assets/img//portfolio/small/8.jpg', '../assets/img//portfolio/small/9.jpg', '../assets/img//portfolio/small/10.jpg'],
+			'large' : ['../assets/img//portfolio/large/5.jpg','../assets/img//portfolio/large/8.jpg', '../assets/img//portfolio/large/9.jpg', '../assets/img//portfolio/large/10.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -166,8 +166,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Azuki bean',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/6.jpg', 'img/portfolio/small/13.jpg', 'img/portfolio/small/14.jpg', 'img/portfolio/small/15.jpg', 'img/portfolio/small/16.jpg'],
-			'large' : ['img/portfolio/large/6.jpg', 'img/portfolio/large/13.jpg', 'img/portfolio/large/14.jpg', 'img/portfolio/large/15.jpg', 'img/portfolio/large/16.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/6.jpg', '../assets/img//portfolio/small/13.jpg', '../assets/img//portfolio/small/14.jpg', '../assets/img//portfolio/small/15.jpg', '../assets/img//portfolio/small/16.jpg'],
+			'large' : ['../assets/img//portfolio/large/6.jpg', '../assets/img//portfolio/large/13.jpg', '../assets/img//portfolio/large/14.jpg', '../assets/img//portfolio/large/15.jpg', '../assets/img//portfolio/large/16.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -179,8 +179,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Swiss chard pumpkin',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/8.jpg', 'img/portfolio/small/18.jpg', 'img/portfolio/small/19.jpg', 'img/portfolio/small/20.jpg'],
-			'large' : ['img/portfolio/large/8.jpg', 'img/portfolio/large/18.jpg', 'img/portfolio/large/19.jpg', 'img/portfolio/large/20.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/8.jpg', '../assets/img//portfolio/small/18.jpg', '../assets/img//portfolio/small/19.jpg', '../assets/img//portfolio/small/20.jpg'],
+			'large' : ['../assets/img//portfolio/large/8.jpg', '../assets/img//portfolio/large/18.jpg', '../assets/img//portfolio/large/19.jpg', '../assets/img//portfolio/large/20.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },
@@ -192,8 +192,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Spinach winter purslane',
 			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/9.jpg','img/portfolio/small/15.jpg', 'img/portfolio/small/11.jpg', 'img/portfolio/small/10.jpg'],
-			'large' : ['img/portfolio/large/9.jpg','img/portfolio/large/15.jpg', 'img/portfolio/large/11.jpg', 'img/portfolio/large/10.jpg'],
+			'thumbnail' : ['../assets/img//portfolio/small/9.jpg','../assets/img//portfolio/small/15.jpg', '../assets/img//portfolio/small/11.jpg', '../assets/img//portfolio/small/10.jpg'],
+			'large' : ['../assets/img//portfolio/large/9.jpg','../assets/img//portfolio/large/15.jpg', '../assets/img//portfolio/large/11.jpg', '../assets/img//portfolio/large/10.jpg'],
 			'button_list'   :
 			[
 			{ 'title':'Demo', 'url' : 'http://#' },

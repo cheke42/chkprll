@@ -81,7 +81,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <a class="navbar-brand" href="#">Single<span>Pro</span></a>
             
             <!-- IMG BASED LOGO  -->
-            <!--  <a class="navbar-brand" href="#"><img src="img/logo.png" alt="logo"></a> --> 
+            <!--  <a class="navbar-brand" href="#"><img src="assets/img/logo.png" alt="logo"></a> --> 
             
                    
           </div>
@@ -94,7 +94,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <li><a href="#team">Team</a></li> 
               <li><a href="#pricing">Pricing</a></li> 
               <li><a href="#blog">Blog</a></li>               
-              <li><a href="#contact">Contacts</a></li>                           
+              <li><a href="<?php echo (base_url() . 'index.php/contacto') ?>">Contacts</a></li>                           
             </ul>           
           </div><!--/.nav-collapse -->
           </div>     
@@ -113,7 +113,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <!-- FIRST SLIDE OVERLAY -->
               <div class="slider_overlay"></div> 
               <!-- FIRST SLIDE MAIN IMAGE -->
-              <img src="img/full-slider/full-slide7.jpg" alt="img">
+              <img src="assets/img/full-slider/full-slide7.jpg" alt="img">
               <!-- FIRST SLIDE CAPTION-->
               <div class="slider_caption">
                 <h2>Hi,We are Ultramodern Single pro</h2>
@@ -127,7 +127,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <!-- SECOND SLIDE OVERLAY -->
               <div class="slider_overlay"></div> 
               <!-- SECOND SLIDE MAIN IMAGE -->
-              <img src="img/full-slider/full-slide2.jpg" alt="img">
+              <img src="assets/img/full-slider/full-slide2.jpg" alt="img">
               <!-- SECOND SLIDE CAPTION-->
               <div class="slider_caption">
                 <h2>Hi,We are Ultramodern Single pro</h2>
@@ -141,7 +141,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <!-- THIRD SLIDE OVERLAY -->
               <div class="slider_overlay"></div> 
               <!-- THIRD SLIDE MAIN IMAGE -->
-              <img src="img/full-slider/full-slide1.jpg" alt="img">
+              <img src="assets/img/full-slider/full-slide1.jpg" alt="img">
               <!-- THIRD SLIDE CAPTION-->
               <div class="slider_caption">
                 <h2>we'll change your Idea of Design</h2>
@@ -258,23 +258,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       <div class="featured_slider">
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img src="img/feature_img1.jpg" alt="img"></a>                          
+                          <a href="#"> <img src="assets/img/feature_img1.jpg" alt="img"></a>                          
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img src="img/feature_img2.jpg" alt="img"></a>                          
+                          <a href="#"> <img src="assets/img/feature_img2.jpg" alt="img"></a>                          
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img src="img/feature_img3.jpg" alt="img"></a>                           
+                          <a href="#"> <img src="assets/img/feature_img3.jpg" alt="img"></a>                           
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img src="img/feature_img6.jpg" alt="img"></a>                           
+                          <a href="#"> <img src="assets/img/feature_img6.jpg" alt="img"></a>                           
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img src="img/feature_img5.jpg" alt="img"></a>                           
+                          <a href="#"> <img src="assets/img/feature_img5.jpg" alt="img"></a>                           
                         </div>
                       </div>
                       <!-- END FEATURED SLIDER -->
@@ -515,7 +515,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-3 col-md-3 col-sm-4">
                   <div class="single_team wow fadeInUp">
                     <div class="team_img">
-                      <img src="img/team-1.jpg" alt="img">
+                      <img src="assets/img/team-1.jpg" alt="img">
                     </div>
                     <h5 class="">Jamie Sidens</h5>
                     <span>Founder</span>                        
@@ -532,7 +532,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-3 col-md-3 col-sm-4">
                   <div class="single_team wow fadeInUp">
                     <div class="team_img">
-                      <img src="img/team-2.jpg" alt="img">
+                      <img src="assets/img/team-2.jpg" alt="img">
                     </div>
                     <h5>Jamie Sidens</h5>
                     <span>CMS Developer</span>                        
@@ -549,7 +549,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-3 col-md-3 col-sm-4">
                   <div class="single_team wow fadeInUp">
                     <div class="team_img">
-                      <img src="img/team-3.jpg" alt="img">
+                      <img src="assets/img/team-3.jpg" alt="img">
                     </div>
                     <h5>Jamie Sidens</h5>
                     <span>Manager</span>                        
@@ -566,7 +566,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-3 col-md-3 col-sm-4">
                   <div class="single_team wow fadeInUp">
                     <div class="team_img">
-                      <img src="img/team-4.jpg" alt="img">
+                      <img src="assets/img/team-4.jpg" alt="img">
                     </div>
                     <h5>Jamie Sidens</h5>
                     <span>Developer</span>                        
@@ -583,7 +583,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-3 col-md-3 col-sm-4">
                   <div class="single_team wow fadeInUp">
                     <div class="team_img">
-                      <img src="img/team-5.jpg" alt="img">
+                      <img src="assets/img/team-5.jpg" alt="img">
                     </div>
                     <h5>Jamie Sidens</h5>
                     <span>Programmer</span>                        
@@ -600,7 +600,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-3 col-md-3 col-sm-4">
                   <div class="single_team wow fadeInUp">
                     <div class="team_img">
-                      <img src="img/team-1.jpg" alt="img">
+                      <img src="assets/img/team-1.jpg" alt="img">
                     </div>
                     <h5>Jamie Sidens</h5>
                     <span>Web Designer</span>                        
@@ -617,7 +617,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-3 col-md-3 col-sm-4">
                   <div class="single_team wow fadeInUp">
                     <div class="team_img">
-                      <img src="img/team-2.jpg" alt="img">
+                      <img src="assets/img/team-2.jpg" alt="img">
                     </div>
                     <h5>Jone Doe</h5>
                     <span>Marketing Head</span>                        
@@ -761,7 +761,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img1.jpg" alt="img">
+                      <img src="assets/img/blog_img1.jpg" alt="img">
                     </div>
                     <h3>Sed ut perspiciatis unde omnis</h3>
                     <div class="post_commentbox">
@@ -778,7 +778,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img2.jpg" alt="img">
+                      <img src="assets/img/blog_img2.jpg" alt="img">
                     </div>
                     <h3>Sed ut perspiciatis unde omnis</h3>
                     <div class="post_commentbox">
@@ -794,7 +794,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img3.jpg" alt="img">
+                      <img src="assets/img/blog_img3.jpg" alt="img">
                     </div>
                     <h3>Sed ut perspiciatis unde omnis</h3>
                     <div class="post_commentbox">
@@ -810,7 +810,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img4.jpg" alt="img">
+                      <img src="assets/img/blog_img4.jpg" alt="img">
                     </div>
                     <h3>Sed ut perspiciatis unde omnis</h3>
                     <div class="post_commentbox">
@@ -826,7 +826,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img1.jpg" alt="img">
+                      <img src="assets/img/blog_img1.jpg" alt="img">
                     </div>
                     <h3>Sed ut perspiciatis unde omnis</h3>
                     <div class="post_commentbox">
@@ -842,7 +842,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img2.jpg" alt="img">
+                      <img src="assets/img/blog_img2.jpg" alt="img">
                     </div>
                     <h3>Sed ut perspiciatis unde omnis</h3>
                     <div class="post_commentbox">
@@ -882,7 +882,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <li>
                   <div class="media testi_media">
                     <a class="media-left testi_img" href="#">
-                      <img src="img/team-1.jpg" alt="img">
+                      <img src="assets/img/team-1.jpg" alt="img">
                     </a>
                     <div class="media-body">
                       <h4 class="media-heading">Alin Brown</h4>
@@ -897,7 +897,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <li>
                   <div class="media testi_media">
                     <a class="media-left testi_img" href="#">
-                      <img src="img/team-2.jpg" alt="img">
+                      <img src="assets/img/team-2.jpg" alt="img">
                     </a>
                     <div class="media-body">
                       <h4 class="media-heading">Jon Smith</h4>
@@ -912,7 +912,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <li>
                   <div class="media testi_media">
                     <a class="media-left testi_img" href="#">
-                      <img src="img/team-4.jpg" alt="img">
+                      <img src="assets/img/team-4.jpg" alt="img">
                     </a>
                     <div class="media-body">
                       <h4 class="media-heading">Jon Doe</h4>
@@ -951,49 +951,49 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   <!-- BEGAIN SINGLE CLIENT SLIDE#1 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img1.png" alt="clients Brand">
+                      <img src="assets/img/clients_img1.png" alt="clients Brand">
                     </div>
                   </div>
                   <!-- BEGAIN SINGLE CLIENT SLIDE#2 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img2.png" alt="clients Brand">
+                      <img src="assets/img/clients_img2.png" alt="clients Brand">
                     </div>
                   </div>
                   <!-- BEGAIN SINGLE CLIENT SLIDE#3 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img4.png" alt="clients Brand">
+                      <img src="assets/img/clients_img4.png" alt="clients Brand">
                     </div>
                   </div>
                   <!-- BEGAIN SINGLE CLIENT SLIDE#4 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img3.png" alt="clients Brand">
+                      <img src="assets/img/clients_img3.png" alt="clients Brand">
                     </div>
                   </div>
                    <!-- BEGAIN SINGLE CLIENT SLIDE#5 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img4.png" alt="clients Brand">
+                      <img src="assets/img/clients_img4.png" alt="clients Brand">
                     </div>
                   </div>
                   <!-- BEGAIN SINGLE CLIENT SLIDE#6 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img5.png" alt="clients Brand">
+                      <img src="assets/img/clients_img5.png" alt="clients Brand">
                     </div>
                   </div>
                   <!-- BEGAIN SINGLE CLIENT SLIDE#7 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img1.png" alt="clients Brand">
+                      <img src="assets/img/clients_img1.png" alt="clients Brand">
                     </div>
                   </div>
                   <!-- BEGAIN SINGLE CLIENT SLIDE#8 -->
                   <div class="col-lg-3 col-md-3 col-sm-3">
                     <div class="single_client">
-                      <img src="img/clients_img2.png" alt="clients Brand">
+                      <img src="assets/img/clients_img2.png" alt="clients Brand">
                     </div>
                   </div>
                 </div>
